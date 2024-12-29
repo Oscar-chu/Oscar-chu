@@ -5,12 +5,17 @@
 ###
 
 <div align="left">
+
+  <a href = "https://www.python.org/">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-
+  </a>
+  
+  <a href="https://www.mysql.com/">
   <img width="12" />
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="30" alt="mysql logo"  />
-
+  </a>
+  
   <img width="12" />
   <img src="https://www.svgrepo.com/show/374159/vba.svg" height="30" alt="vba logo" />
 
@@ -19,8 +24,4 @@
 
 ###
 
-<div align="left">
- <a href="oscartfchu@gmail.com" >
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
- </a>
 </div>
