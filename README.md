@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left"> Hi! </h2>
 
 <img align="right" height="150" src=  />
 
@@ -7,6 +7,13 @@
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="30" alt="mysql logo"  />
+
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/374159/vba.svg" height="30" alt="vba logo" />
+
 
 </div>
 
